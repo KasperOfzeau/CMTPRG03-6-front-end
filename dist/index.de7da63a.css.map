@@ -1,0 +1,1 @@
+{"mappings":"AACI;EACI;;AAGJ;EACI","sources":["src/styles.scss"],"sourcesContent":[".App {\r\n    h1 {\r\n        text-align: center;\r\n    }\r\n\r\n    p {\r\n        text-align: center;\r\n    }\r\n}"],"names":[],"version":3,"file":"index.de7da63a.css.map","sourceRoot":"/__parcel_source_root/"}

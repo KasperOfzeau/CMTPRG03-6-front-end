@@ -1,0 +1,47 @@
+.App ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0 0 50px 0;
+}
+
+#gallery {
+  line-height: 0;
+  -webkit-column-count: 4;
+  /* split it into 5 columns */
+  -webkit-column-gap: 5px;
+  /* give it a 5px gap between columns */
+  -moz-column-count: 4;
+  -moz-column-gap: 5px;
+  column-count: 4;
+  column-gap: 5px;
+}
+#gallery .Photo img {
+  width: 100% !important;
+  height: auto !important;
+  margin-bottom: 5px;
+  /* to match column gap */
+}
+#gallery .Photo img:hover {
+  cursor: pointer;
+}
+
+.Photo .deleteButton, .Photo .updateButton {
+  margin: 0 15px 15px 0;
+  padding: 10px 24px;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+}
+.Photo .updateButton {
+  background-color: grey;
+}
+.Photo .deleteButton {
+  background-color: red;
+}
+
+button:hover {
+  cursor: pointer;
+}
+/*# sourceMappingURL=index.2d25c574.css.map */

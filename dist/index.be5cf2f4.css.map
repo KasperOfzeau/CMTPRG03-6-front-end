@@ -1,0 +1,1 @@
+{"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","sources":["src/styles.css"],"sourcesContent":[".App {\r\n    h1 {\r\n        text-align: center;\r\n    }\r\n\r\n    p {\r\n        text-align: center;\r\n    }\r\n}"],"names":[],"version":3,"file":"index.be5cf2f4.css.map","sourceRoot":"/__parcel_source_root/"}
